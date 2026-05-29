@@ -1,6 +1,6 @@
 {
-  "name": "project-latitude-v1",
-  "version": "0.1.0",
+  "name": "project-latitude",
+  "version": "2.1.0",
   "private": true,
   "type": "module",
   "scripts": {
